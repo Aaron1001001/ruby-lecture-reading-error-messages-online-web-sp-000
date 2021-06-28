@@ -1,5 +1,4 @@
 x = "hello world"
 
 puts x
-
- HelloWorld
+Hello World
